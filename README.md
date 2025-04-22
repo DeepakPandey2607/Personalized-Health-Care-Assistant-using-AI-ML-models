@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6bc989e0-9288-45f6-9563-d618a3de6ab4)# Personalized-Health-Care-Assistant-using-AI-ML-models
+Personalized-Health-Care-Assistant-using-AI-ML-models
 
  Multimodal Mental Health Assistant
 
